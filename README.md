@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on something cool~
+- 🌱 I’m currently learning all the thing I'm interested in right now!
+- 👯 I’m looking to collaborate on Vista.
+- 🤔 I’m looking for help with my friends and teachers.
+- 💬 Ask me about something you want.
+- 📫 How to reach me: 1059660136@qq.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: Often lost...
 <!--
 **LiandanStar/LiandanStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
