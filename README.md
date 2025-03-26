@@ -10,6 +10,12 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=LiandanStar&show_icons=true&theme=transparent)
 
+![Visitor Count](https://profile-counter.glitch.me/LiandanStar/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiandanStar&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=LiandanStar&theme=dracula)
+
 <!--
 **LiandanStar/LiandanStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
