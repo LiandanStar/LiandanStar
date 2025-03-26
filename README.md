@@ -8,7 +8,7 @@
 - 😄 Pronouns: he
 - ⚡ Fun fact: Often lost...
 
-  ![](https://github-readme-stats.vercel.app/api?username=LiandanStare&show_icons=true&theme=transparent)
+  ![](https://github-readme-stats.vercel.app/api?username=LiandanStar&show_icons=true&theme=transparent)
 
 <!--
 **LiandanStar/LiandanStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
